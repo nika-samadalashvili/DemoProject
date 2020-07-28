@@ -1,0 +1,12 @@
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\bin\Debug\netcoreapp3.1\DemoProject.Application.deps.json
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\bin\Debug\netcoreapp3.1\DemoProject.Application.dll
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\bin\Debug\netcoreapp3.1\DemoProject.Application.pdb
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\bin\Debug\netcoreapp3.1\DemoProject.Domain.dll
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\bin\Debug\netcoreapp3.1\DemoProject.Domain.pdb
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\obj\Debug\netcoreapp3.1\DemoProject.Application.dll
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Application\obj\Debug\netcoreapp3.1\DemoProject.Application.pdb

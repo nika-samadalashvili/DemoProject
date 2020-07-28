@@ -1,0 +1,8 @@
+C:\Users\nikas\OneDrive\Desktop\TemplateProject\UserMobApp\src\Domain\bin\Debug\netstandard2.1\UserMobApp.Domain.deps.json
+C:\Users\nikas\OneDrive\Desktop\TemplateProject\UserMobApp\src\Domain\bin\Debug\netstandard2.1\UserMobApp.Domain.dll
+C:\Users\nikas\OneDrive\Desktop\TemplateProject\UserMobApp\src\Domain\bin\Debug\netstandard2.1\UserMobApp.Domain.pdb
+C:\Users\nikas\OneDrive\Desktop\TemplateProject\UserMobApp\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\nikas\OneDrive\Desktop\TemplateProject\UserMobApp\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\nikas\OneDrive\Desktop\TemplateProject\UserMobApp\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nikas\OneDrive\Desktop\TemplateProject\UserMobApp\src\Domain\obj\Debug\netstandard2.1\UserMobApp.Domain.dll
+C:\Users\nikas\OneDrive\Desktop\TemplateProject\UserMobApp\src\Domain\obj\Debug\netstandard2.1\UserMobApp.Domain.pdb

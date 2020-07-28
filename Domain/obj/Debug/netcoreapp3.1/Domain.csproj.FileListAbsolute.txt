@@ -1,0 +1,8 @@
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Domain\bin\Debug\netcoreapp3.1\DemoProject.Domain.deps.json
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Domain\bin\Debug\netcoreapp3.1\DemoProject.Domain.dll
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Domain\bin\Debug\netcoreapp3.1\DemoProject.Domain.pdb
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Domain\obj\Debug\netcoreapp3.1\DemoProject.Domain.dll
+C:\Users\nikas\OneDrive\Desktop\DemoProject\DemoProject\Domain\obj\Debug\netcoreapp3.1\DemoProject.Domain.pdb
